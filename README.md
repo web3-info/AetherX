@@ -85,6 +85,11 @@
 
 ##  4.4资产交易
 
+
+# 5. Sepolia网络ETH免费获取
+
+https://cloud.google.com/application/web3/faucet/ethereum/sepolia
+
 <img width="877" height="628" alt="image" src="https://github.com/user-attachments/assets/d54d9abe-cb6f-4e99-8923-3d6cd7468d4a" />
 
 
