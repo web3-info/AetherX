@@ -24,3 +24,12 @@
 - 点击 <img width="92" height="31" alt="image" src="https://github.com/user-attachments/assets/2c79b5df-c05b-40b7-9adb-3e7b289bdb99" /> 获取当前账户钱包地址
 
 - 点击 <img width="251" height="36" alt="image" src="https://github.com/user-attachments/assets/83dc507a-f8cb-425a-baf4-e08680e31944" /> 获取当前账户私钥. 私钥很重要,不能告诉任何人.
+
+
+## 账户列表搜索
+
+<img width="877" height="625" alt="image" src="https://github.com/user-attachments/assets/c8d5d9b7-341c-4052-aabf-b9def97bfc54" />
+
+- 我的钱包支持多个账户, 在当前页面对账户进行切换
+
+- <img width="109" height="32" alt="image" src="https://github.com/user-attachments/assets/f71fa570-fe69-436e-9679-a3e55d83ee72" />  点击导入私钥,创建钱包账户.
