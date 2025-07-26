@@ -26,7 +26,7 @@
 - 点击 <img width="251" height="36" alt="image" src="https://github.com/user-attachments/assets/83dc507a-f8cb-425a-baf4-e08680e31944" /> 获取当前账户私钥. 私钥很重要,不能告诉任何人.
 
 
-## 账户列表搜索
+## 3.2账户列表搜索
 
 <img width="877" height="625" alt="image" src="https://github.com/user-attachments/assets/c8d5d9b7-341c-4052-aabf-b9def97bfc54" />
 
@@ -34,7 +34,7 @@
 
 - 点击<img width="109" height="32" alt="image" src="https://github.com/user-attachments/assets/f71fa570-fe69-436e-9679-a3e55d83ee72" />  导入私钥,创建钱包账户.
 
-## 我的资产
+##  3.3我的资产
 
 <img width="873" height="622" alt="image" src="https://github.com/user-attachments/assets/9f5f1eaf-afaf-4fab-b4b1-fe57bc5ca05d" />
 
@@ -51,7 +51,7 @@
 - 点击 <img width="100" height="27" alt="image" src="https://github.com/user-attachments/assets/4d7da909-d874-45e4-b90a-dbe4774cdbe2" /> 获取当前账户地址,或者获取当前账户收款二维码,进行收款操作.
 
 
-## 资产交易
+##  3.4资产交易
 
 <img width="877" height="628" alt="image" src="https://github.com/user-attachments/assets/d54d9abe-cb6f-4e99-8923-3d6cd7468d4a" />
 
