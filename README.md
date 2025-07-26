@@ -50,3 +50,10 @@
 
 - 点击 <img width="100" height="27" alt="image" src="https://github.com/user-attachments/assets/4d7da909-d874-45e4-b90a-dbe4774cdbe2" /> 获取当前账户地址,或者获取当前账户收款二维码,进行收款操作.
 
+
+## 资产交易
+
+<img width="877" height="628" alt="image" src="https://github.com/user-attachments/assets/d54d9abe-cb6f-4e99-8923-3d6cd7468d4a" />
+
+
+- 对当前账户下的资产进行交易, 执行以太坊(ETH)交易,同时支持ERC20代币(token) 交易.
