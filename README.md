@@ -3,7 +3,15 @@
 [![问题讨论](https://img.shields.io/badge/问题讨论-blue?style=for-the-badge)](https://github.com/web3-info/AetherX/issues)
 [![获取下载](https://img.shields.io/badge/获取下载-green?style=for-the-badge)](https://github.com/web3-info/AetherX/releases)
 
-# 名词介绍
+
+
+
+# 2. 下载
+点击[资源下载](https://github.com/web3-info/AetherX/releases)获取软件
+
+
+
+# 3. 名词介绍
 
 - **以太坊**: 以太坊是开源区块链平台，支持智能合约与去中心化应用（DApp），原生代币为ETH，推动Web3与数字资产发展。
 
@@ -26,12 +34,9 @@
 - **智能合约**: 以太坊智能合约是运行在以太坊区块链上的自动执行程序，基于 Solidity 编写，可在满足预设条件时无需第三方介入自动完成操作。
 
 
--- **ERC20** ERC20 是以太坊上的一种智能合约，它定义了代币的基本功能接口，如转账、查询余额等，便于不同应用和合约间的互操作。流行的ERC20代币有 USDT、DAI、UNI、LINK等等.
+- **ERC20** ERC20 是以太坊上的一种智能合约，它定义了代币的基本功能接口，如转账、查询余额等，便于不同应用和合约间的互操作。流行的ERC20代币有 USDT、DAI、UNI、LINK等等.
 
 
-
-# 3. 下载
-点击[资源下载](https://github.com/web3-info/AetherX/releases)获取软件
 
 # 4. 介绍
 
