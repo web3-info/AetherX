@@ -32,4 +32,21 @@
 
 - 我的钱包支持多个账户, 在当前页面对账户进行切换
 
-- <img width="109" height="32" alt="image" src="https://github.com/user-attachments/assets/f71fa570-fe69-436e-9679-a3e55d83ee72" />  点击导入私钥,创建钱包账户.
+- 点击<img width="109" height="32" alt="image" src="https://github.com/user-attachments/assets/f71fa570-fe69-436e-9679-a3e55d83ee72" />  导入私钥,创建钱包账户.
+
+## 我的资产
+
+<img width="873" height="622" alt="image" src="https://github.com/user-attachments/assets/9f5f1eaf-afaf-4fab-b4b1-fe57bc5ca05d" />
+
+- 这里显示当前账户下面以太坊余额以及ERC20代币余额
+
+- 点击<img width="42" height="69" alt="image" src="https://github.com/user-attachments/assets/28b9f2be-d616-4a51-a2c3-582331ec2434" /> 将当前账户下的资产转给其它账户
+
+- 点击<img width="51" height="67" alt="image" src="https://github.com/user-attachments/assets/d95bccc8-7cdf-4cd2-b955-358f2465c44a" /> 获取当前账户地址,或者获取当前账户收款二维码,进行收款操作.
+
+- 点击<img width="50" height="66" alt="image" src="https://github.com/user-attachments/assets/b90c0140-0f19-4a65-aefe-d246bcc4e4c7" /> 从以太坊网络获取当前账户下的资产余额.
+
+- 点击 <img width="146" height="30" alt="image" src="https://github.com/user-attachments/assets/e4fc7587-32c7-43a8-9303-37027bc52c48" /> 导入ERC20 代币(token)
+
+- 点击 <img width="100" height="27" alt="image" src="https://github.com/user-attachments/assets/4d7da909-d874-45e4-b90a-dbe4774cdbe2" /> 获取当前账户地址,或者获取当前账户收款二维码,进行收款操作.
+
