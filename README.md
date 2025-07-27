@@ -7,8 +7,9 @@
 
 
 # 2. 下载
-点击[资源下载](https://github.com/web3-info/AetherX/releases)获取软件
+- 点击[资源下载](https://github.com/web3-info/AetherX/releases)获取软件
 
+- 下载软件的时候请注意,以太坊网络有主网与测试网络区分。请按需下载
 
 
 # 3. 名词介绍
