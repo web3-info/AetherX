@@ -45,7 +45,8 @@
 
 ## 4.1 我的账户
 
-<img width="876" height="629" alt="image" src="https://github.com/user-attachments/assets/64221122-665f-4fa5-8368-d07e92e0e607" />
+<img width="899" height="624" alt="image" src="https://github.com/user-attachments/assets/012c3ce4-a227-4a84-b8b7-dfa2b2745643" />
+
 
 
 - 点击<img width="23" height="26" alt="屏幕截图 2025-07-26 213555" src="https://github.com/user-attachments/assets/162e1e34-a8af-4fce-a739-b00e8b420de6" /> 可以编辑账户名称.
@@ -61,7 +62,7 @@
 
 ## 4.2账户列表搜索
 
-<img width="877" height="625" alt="image" src="https://github.com/user-attachments/assets/c8d5d9b7-341c-4052-aabf-b9def97bfc54" />
+<img width="897" height="626" alt="image" src="https://github.com/user-attachments/assets/67ea77f7-2ac5-4e2c-9153-40998b9f0dde" />
 
 - 我的钱包支持多个账户, 在当前页面对账户进行切换
 
@@ -69,7 +70,8 @@
 
 ##  4.3我的资产
 
-<img width="873" height="622" alt="image" src="https://github.com/user-attachments/assets/9f5f1eaf-afaf-4fab-b4b1-fe57bc5ca05d" />
+<img width="898" height="625" alt="image" src="https://github.com/user-attachments/assets/813f9b30-f5ee-4e0d-aef0-e8ead575160f" />
+
 
 - 这里显示当前账户下面以太坊余额以及ERC20代币余额
 
@@ -87,11 +89,20 @@
 ##  4.4资产交易
 
 
-<img width="877" height="628" alt="image" src="https://github.com/user-attachments/assets/d54d9abe-cb6f-4e99-8923-3d6cd7468d4a" />
-
+<img width="897" height="627" alt="image" src="https://github.com/user-attachments/assets/fc382a3b-3024-45cc-afd2-e9fb56177640" />
 
 - 对当前账户下的资产进行交易, 执行以太坊(ETH)交易,同时支持ERC20代币(token) 交易.
 
+
+## 4.5交易记录
+
+### 交易列表
+
+<img width="896" height="621" alt="image" src="https://github.com/user-attachments/assets/78f16b8b-b5a2-4fed-b01a-bc487a6a5176" />
+
+### 交易详情
+
+<img width="891" height="623" alt="image" src="https://github.com/user-attachments/assets/11d2fd2b-8ca6-4e91-b86b-c53c85fceb29" />
 
 
 # 5. Sepolia网络ETH免费获取
